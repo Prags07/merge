@@ -1,1 +1,1 @@
-fetch command 
+pull command 
